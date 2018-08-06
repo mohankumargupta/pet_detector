@@ -7,6 +7,7 @@ sudo python3 -m pip install --upgrade pip setuptools
 #Install Tensorflow
 sudo apt install -y libatlas-base-dev
 sudo pip3 install tensorflow
+sudo pip3 install keras
 
 #Install OpenCV
 sudo apt install -y libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
