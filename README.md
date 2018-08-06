@@ -1,1 +1,1 @@
-# pet_detector
+# pet_detector_rpi
